@@ -1,0 +1,79 @@
+<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1826" x1="6.6146" x2="19.844" y1="17.727" y2="9.2604" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0e770e" offset=".15482"/>
+   <stop stop-color="#117a11" offset=".85533"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2179" x1="9.2604" x2="14.552" y1="11.377" y2="6.0854" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5e99a9" offset="0"/>
+   <stop stop-color="#80aeb9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2187" x1="6.6146" x2="7.9375" y1="17.198" y2="15.875" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#76a6b2" offset="0"/>
+   <stop stop-color="#80aeb9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2195" x1="6.6146" x2="7.9375" y1="11.906" y2="10.583" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#71a4b1" offset="0"/>
+   <stop stop-color="#80aeb9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2203" x1="6.6146" x2="7.9375" y1="14.552" y2="13.229" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#74a6b2" offset="0"/>
+   <stop stop-color="#80aeb9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2211" x1="7.9375" x2="11.906" y1="17.198" y2="13.229" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#78a8b4" offset="0"/>
+   <stop stop-color="#80aeb9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2219" x1="15.875" x2="19.844" y1="17.462" y2="13.229" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#74a5b0" offset="0"/>
+   <stop stop-color="#80aeb9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".26458">
+  <path d="m6.2916 5.2917a1 1 0 0 0-0.99994 0.99994v13.875a1 1 0 0 0 0.99994 0.99994h13.875a1 1 0 0 0 0.99994-0.99994v-13.875a1 1 0 0 0-0.99994-0.99994h-13.875zm0.98444 1.3229a0.66146 0.66146 0 0 1 0.66146 0.66146 0.66146 0.66146 0 0 1-0.66146 0.66146 0.66146 0.66146 0 0 1-0.66146-0.66146 0.66146 0.66146 0 0 1 0.66146-0.66146zm11.906 0a0.66146 0.66146 0 0 1 0.66146 0.66146 0.66146 0.66146 0 0 1-0.66146 0.66146 0.66146 0.66146 0 0 1-0.66146-0.66146 0.66146 0.66146 0 0 1 0.66146-0.66146zm-11.906 11.906a0.66146 0.66146 0 0 1 0.66146 0.66146 0.66146 0.66146 0 0 1-0.66146 0.66146 0.66146 0.66146 0 0 1-0.66146-0.66146 0.66146 0.66146 0 0 1 0.66146-0.66146zm11.906 0a0.66146 0.66146 0 0 1 0.66146 0.66146 0.66146 0.66146 0 0 1-0.66146 0.66146 0.66146 0.66146 0 0 1-0.66146-0.66146 0.66146 0.66146 0 0 1 0.66146-0.66146z" fill="url(#linearGradient1826)"/>
+  <rect x="9.2604" y="6.6146" width="5.2917" height="3.9688" fill="url(#linearGradient2179)"/>
+  <circle cx="17.859" cy="15.214" r="1.9844" fill="url(#linearGradient2219)"/>
+  <rect x="6.6146" y="15.875" width="1.3229" height="1.3229" fill="url(#linearGradient2187)"/>
+  <rect x="6.6146" y="13.229" width="1.3229" height="1.3229" fill="url(#linearGradient2203)"/>
+  <rect x="6.6146" y="10.583" width="1.3229" height="1.3229" fill="url(#linearGradient2195)"/>
+  <rect x="9.2604" y="13.229" width="1.3229" height="3.9688" fill="url(#linearGradient2211)"/>
+ </g>
+ <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="#e2e2df"/>
+ <rect x="9.525" y="17.992" width=".26458" height=".52917" fill="#cf6d17"/>
+ <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".13229"/>
+ <g transform="translate(2.6147e-7 .79375)">
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="#e2e2df"/>
+  <rect x="9.525" y="17.992" width=".26458" height=".52917" fill="#cf6d17"/>
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".13229"/>
+ </g>
+ <g transform="translate(2.249 -3.9688)">
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="#e2e2df"/>
+  <rect x="9.525" y="17.992" width=".26458" height=".52917" fill="#cf6d17"/>
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".13229"/>
+ </g>
+ <g transform="rotate(90 12.303 18.124)">
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="#e2e2df"/>
+  <rect x="9.525" y="17.992" width=".26458" height=".52917" fill="#cf6d17"/>
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".13229"/>
+ </g>
+ <g transform="rotate(-90 11.509 16.272)">
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="#e2e2df"/>
+  <rect x="9.525" y="17.992" width=".26458" height=".52917" fill="#cf6d17"/>
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".13229"/>
+ </g>
+ <g transform="translate(6.6146 -7.4083)">
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="#e2e2df"/>
+  <rect x="9.525" y="17.992" width=".26458" height=".52917" fill="#cf6d17"/>
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".13229"/>
+ </g>
+ <g transform="translate(6.6146 -8.2021)">
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="#e2e2df"/>
+  <rect x="9.525" y="17.992" width=".26458" height=".52917" fill="#cf6d17"/>
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".13229"/>
+ </g>
+ <g transform="rotate(90 17.595 18.124)">
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="#e2e2df"/>
+  <rect x="9.525" y="17.992" width=".26458" height=".52917" fill="#cf6d17"/>
+  <rect x="9.2604" y="17.992" width=".79375" height=".52917" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".13229"/>
+ </g>
+</svg>
