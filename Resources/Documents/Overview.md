@@ -3,7 +3,7 @@
 
 # IDF
 
-Importer for IDF files.
+Importer for IDF files.  
 
 <img width = '300' src = '../Media/Header.webp' />
 
