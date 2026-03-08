@@ -68,7 +68,7 @@
 
     <url
         type = 'documentation'
-    >https://github.com/FreeCAD/IDF/tree/Latest/Documentation</url>
+    >https://github.com/FreeCAD/IDF</url>
 
     <url
         branch = 'Latest'
